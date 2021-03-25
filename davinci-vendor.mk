@@ -28,6 +28,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/davinci/proprietary/media/audio/ui/popup_lightsaber_up.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_lightsaber_up.ogg \
     vendor/xiaomi/davinci/proprietary/media/audio/ui/popup_throne_room_down.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_throne_room_down.ogg \
     vendor/xiaomi/davinci/proprietary/media/audio/ui/popup_throne_room_up.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_throne_room_up.ogg \
+    vendor/xiaomi/davinci/proprietary/media/audio/ui/popup_anime_moan_down.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_anime_moan_down.ogg \
+    vendor/xiaomi/davinci/proprietary/media/audio/ui/popup_anime_moan_up.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_anime_moan_up.ogg \
     vendor/xiaomi/davinci/proprietary/vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb \
     vendor/xiaomi/davinci/proprietary/vendor/etc/acdbdata/Forte/Forte_Codec_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_Codec_cal.acdb \
     vendor/xiaomi/davinci/proprietary/vendor/etc/acdbdata/Forte/Forte_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_General_cal.acdb \
